@@ -1,4 +1,3 @@
-# BBHT
 
 Bug Bounty Hunting Tools is a script to install the most popular tools used while looking for vulnerabilities for a bug bounty program.
  
@@ -21,9 +20,6 @@ Bug Bounty Hunting Tools is a script to install the most popular tools used whil
 - Waybackurls
 - Httprobe
 - Seclists collection
-
-This script also grabs the aliases created and published here:
-https://github.com/nahamsec/recon_profile
 
 
 # Installing
